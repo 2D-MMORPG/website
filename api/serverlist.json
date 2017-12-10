@@ -5,21 +5,24 @@
             "description": "Official game server (english) for the project",
             "channel": "stable",
             "proxy_ip": "127.0.0.1",
-            "proxy_port": 2600
+            "proxy_port": 2600,
+            "imageURL": "none"
         },
         {
             "name": "German Public Server",
             "description": "Official german game server",
             "channel": "stable",
             "proxy_ip": "127.0.0.1",
-            "proxy_port": 2600
+            "proxy_port": 2600,
+            "imageURL": "none"
         },
         {
             "name": "Test Server",
             "description": "Official test server for the project",
             "channel": "stable",
             "proxy_ip": "127.0.0.1",
-            "proxy_port": 2600
+            "proxy_port": 2600,
+            "imageURL": "none"
         }
     ]
 }
