@@ -6,13 +6,15 @@
             "title": "Stable Channel",
             "activated": false,
             "public": true,
+            "newest_build": 1,
             "update_url": "http://mmo.jukusoft.com/update/stable.json"
         },
         {
             "name": "test",
             "title": "Test Channel (Alpha / Beta Channel)",
-            "activated": false,
+            "activated": true,
             "public": true,
+			"newest_build": 1,
             "update_url": "http://mmo.jukusoft.com/update/test.json"
         },
         {
@@ -20,6 +22,7 @@
             "title": "Developer Preview Channel",
             "activated": true,
             "public": false,
+			"newest_build": 2,
             "update_url": "http://mmo.jukusoft.com/update/dev_preview.json"
         }
     ]
