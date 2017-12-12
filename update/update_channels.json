@@ -18,7 +18,7 @@
         {
             "name": "dev_preview",
             "title": "Developer Preview Channel",
-            "activated": false,
+            "activated": true,
             "public": false,
             "update_url": "http://mmo.jukusoft.com/update/dev_preview.json"
         }
