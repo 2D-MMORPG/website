@@ -1,0 +1,26 @@
+{
+    "update_server_name": "mmo.jukusoft.com",
+    "channels": [
+        {
+            "name": "stable",
+            "title": "Stable Channel",
+            "activated": false,
+            "public": true,
+            "update_url": "http://mmo.jukusoft.com/update/stable.json"
+        },
+        {
+            "name": "test",
+            "title": "Test Channel (Alpha / Beta Channel)",
+            "activated": false,
+            "public": true,
+            "update_url": "http://mmo.jukusoft.com/update/test.json"
+        },
+        {
+            "name": "dev_preview",
+            "title": "Developer Preview Channel",
+            "activated": false,
+            "public": false,//user cannot join to this servers with their registration logins
+            "update_url": "http://mmo.jukusoft.com/update/dev_preview.json"
+        }
+    ]
+}
