@@ -7,6 +7,8 @@
             "activated": false,
             "public": true,
             "newest_build": 1,
+			"build_date": "14.12.2017",
+			"build_time": "00.18",
             "newest_version": "0.0.1-alpha",
 			"newest_full_version": "0.0.1 Pre-Alpha",
             "update_url": "http://mmo.jukusoft.com/update/stable.json"
@@ -17,7 +19,10 @@
             "activated": true,
             "public": true,
 			"newest_build": 1,
-			"newest_version": "0.0.1 Pre-Alpha",
+			"build_date": "14.12.2017",
+			"build_time": "00.18",
+			"newest_version": "0.0.1-alpha",
+			"newest_full_version": "0.0.1 Pre-Alpha",
             "update_url": "http://mmo.jukusoft.com/update/test.json"
         },
         {
@@ -26,6 +31,8 @@
             "activated": true,
             "public": false,
 			"newest_build": 2,
+			"build_date": "14.12.2017",
+			"build_time": "00.18",
 			"newest_version": "0.0.2-alpha",
 			"newest_full_version": "0.0.2 Developer Preview",
             "update_url": "http://mmo.jukusoft.com/update/dev_preview.json"
