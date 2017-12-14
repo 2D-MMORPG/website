@@ -1,10 +1,10 @@
 {
 	"files": [
 		{
-			"file":"my-test-file", "checksum":"6d3fc92a1513c47b032788bcbed6c9b9"
+			"file":"../my-test-file", "checksum":"6d3fc92a1513c47b032788bcbed6c9b9"
 		},
 		{
-			"file":"junit-tests/my-file1.txt", "checksum":"d41d8cd98f00b204e9800998ecf8427e"
+			"file":"junit-tests/my-file1.txt", "checksum":"826e8142e6baabe8af779f5f490cf5f5"
 		},
 		{
 			"file":"junit-tests/my-file2.txt", "checksum":"d41d8cd98f00b204e9800998ecf8427a"
