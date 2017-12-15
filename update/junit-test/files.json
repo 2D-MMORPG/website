@@ -1,5 +1,5 @@
 {
-	"base_download_url":"http://mmo.jukusoft.com/updates/junit-test/files/",
+	"base_download_url":"http://mmo.jukusoft.com/update/junit-test/files/",
 	"files": [
 		{
 			"file":"../my-test-file", "checksum":"6d3fc92a1513c47b032788bcbed6c9b9"
