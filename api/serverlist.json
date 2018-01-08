@@ -19,7 +19,7 @@
         {
             "name": "Test Server",
             "description": "Official test server for the project",
-            "channel": "stable",
+            "channel": "dev-preview",
             "proxy_ip": "127.0.0.1",
             "proxy_port": 2600,
             "image_url": "none"
